@@ -83,12 +83,12 @@ author:
   name             : "Dongfang Gaozhao"
   avatar           : "profile.jpg"
   bio              : "Ph.D. candidate at Florida State University"
-  location         : "Location"
+  location         : "Tallahassee, FL"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5CRQvzEAAAAJ&hl=en&oi=ao"
   email            : "dgaozhao@fsu.edu"
-  researchgate     : "https://www.researchgate.net/profile/Dongfang-Gaozhao-2"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dgaozhao"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
