@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. candidate in public Administration and policy at [Florida State University](https://coss.fsu.edu/askew/). 
+I am a fifth-year Ph.D. candidate in public administration and policy at [Florida State University](https://coss.fsu.edu/askew/). 
 
 My research focuses on digital governance, citizen engagement, performance management, and social equity from a behavioral perspective. I am particularly interested in topics like social media, AI, education, policing, and coproduction. My work has appeared in _Government Information Quarterly_ and _Public Performance & Management Review_.
 
