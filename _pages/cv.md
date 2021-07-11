@@ -1,8 +1,14 @@
 ---
 layout: archive
-title: "CV"
-permalink: https://drive.google.com/file/d/1lRk0wV9_A6s9sNoeQiZr6vyuxPbAQQXJ/view?usp=sharing
+title: "Curriculum Vitae"
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+<object data="https://github.com/dgaozhao/dgaozhao.github.io/raw/master/files/Gaozhao%20Vitae.pdf" type="application/pdf" width="100%" height="100%">
+    <embed src="https://github.com/dgaozhao/dgaozhao.github.io/raw/master/files/Gaozhao%20Vitae.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/dgaozhao/dgaozhao.github.io/raw/master/files/Gaozhao%20Vitae.pdf" target="_blank"><u>here</u></a>.
+        </embed>
+</object>
