@@ -15,3 +15,8 @@ author_profile: true
 
 * Wright, J. E., **Gaozhao, D.**, & Snow, M. A. (2021). Place plus race effects in bureaucratic discretionary power: An analysis of residential segregation and police stop decisions. _Public Performance & Management Review_. _44_(2), 352-377. <a href="https://doi.org/10.1080/15309576.2020.1798789" target="_blank"><u>[Post-print]</u></a>
   - Appearance: <a href="https://www.washingtonpost.com/politics/2021/04/15/derek-chauvins-murder-trial-puts-local-governments-stand/" target="_blank"><u>The Washington Post</u></a>, <a href="https://floridapolitics.com/archives/358332-takeaways-from-tallahassee-early-voting-gratitude/" target="_blank"><u>Florida Politics</u></a>, <a href="https://www.newswise.com/politics/fsu-researcher-finds-links-between-police-searches-and-race-in-minneapolis/?article_id=736395" target="_blank"><u>Newswise</u></a>, <a href="https://sciencenewsnet.in/fsu-researcher-finds-links-between-police-searches-and-race-in-minneapolis/" target="_blank"><u>sciencenewsnet.in</u></a>
+
+
+## Policy Briefs & Popular Writings
+* Beatty, C. C., Wright, J. E., **Gaozhao, D.**, Wiborg, E. R., Clay, A. Jr., & Davis, K. (2020). COVID-19 in Florida: A breakdown of disparities in the Black population by county for June & July 2020. Florida State University Libraries. <a href="https://diginole.lib.fsu.edu/islandora/object/fsu%3A752394" target="_blank"><u>[Report]</u></a>
+* **Gaozhao, D.** & Clay, A. Jr. (2020). COVID-19 in Florida: Disparities in the Black population. Wicked Problems, Wicked Solutions. <a href="https://wicked-solutions.blog/2020/10/19/covid-19-in-florida-disparities-in-the-black-population/" target="_blank"><u>[Blog]</u></a>
