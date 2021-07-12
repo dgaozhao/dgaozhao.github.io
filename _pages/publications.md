@@ -19,4 +19,5 @@ author_profile: true
 
 ## Policy Briefs & Popular Writings
 * Beatty, C. C., Wright, J. E., **Gaozhao, D.**, Wiborg, E. R., Clay, A. Jr., & Davis, K. (2020). COVID-19 in Florida: A breakdown of disparities in the Black population by county for June & July 2020. Florida State University Libraries. <a href="https://diginole.lib.fsu.edu/islandora/object/fsu%3A752394" target="_blank"><u>[Report]</u></a>
+
 * **Gaozhao, D.** & Clay, A. Jr. (2020). COVID-19 in Florida: Disparities in the Black population. Wicked Problems, Wicked Solutions. <a href="https://wicked-solutions.blog/2020/10/19/covid-19-in-florida-disparities-in-the-black-population/" target="_blank"><u>[Blog]</u></a>
