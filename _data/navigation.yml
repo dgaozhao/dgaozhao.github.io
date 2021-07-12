@@ -4,22 +4,10 @@ main:
     url: /publications/
     
   - title: "Working Projects"
-    url: /working_projects/
-
-  #- title: "Talks"
-  #  url: /talks/    
+    url: /working_projects/   
 
   - title: "Teaching"
     url: /teaching/    
-    
-  #- title: "Portfolio"
-  #  url: /portfolio/
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
+
   - title: "CV"
-    url: /cv/
-    
-  #- title: "Guide"
-  #  url: /markdown/
+    url: https://dgaozhao.github.io/files/Gaozhao%20Vitae.pdf
