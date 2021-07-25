@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. candidate in public administration and policy at [Florida State University](https://coss.fsu.edu/askew/). 
+I am a fifth-year Ph.D. candidate in public administration and policy at [Florida State University](https://coss.fsu.edu/askew/). I am also an [APPAM Equity & Inclusion Fellow](https://www.appam.org/about-appam/awards/equity-inclusion-student-fellowship/2019/).
 
-My research focuses on digital governance, citizen engagement, performance management, and social equity from a behavioral perspective. I am particularly interested in topics like social media, AI, education, policing, and coproduction. My work has appeared in _Government Information Quarterly_ and _Public Performance & Management Review_.
+My research focuses on digital governance, citizen engagement, performance management, and social equity from a behavioral perspective. I am particularly interested in topics like social media, fake news, AI, and coproduction. My work has appeared in _Government Information Quarterly_ and _Public Performance & Management Review_.
 
-I am an [ECUPL](https://www.ecupl.edu.cn/) and [Rutgers](https://spaa.newark.rutgers.edu/) alumnus and a travel rewards junkie.
+I received my B.A. in Journalism from [East China University of Political Science and Law](https://www.ecupl.edu.cn/) and M.P.A. from [Rutgers University](https://spaa.newark.rutgers.edu/).
