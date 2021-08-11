@@ -17,7 +17,7 @@ author_profile: true
 
 ### Wright, J. E., Gaozhao, D., & Houston, B., The synergy between representation and technology: A conjoint experiment of police use-of-force.
 
-### Gaozhao, D. & Lee, H., The others will help: Citizen coproduction and bystander apathy.
+### Gaozhao, D., Lee, H., & Berry, F. S., The others will help: Citizen coproduction and bystander apathy.
 
 ### Gaozhao, D. & Fay, D. L., Fighting fake news: What public organizations and managers can do to counter health misinformation?
 
