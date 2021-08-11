@@ -13,13 +13,13 @@ author_profile: true
 
 > In 2020, police brutality against Black Americans catalyzed BLM protests across all 50 states. Though BLM protests continue to permeate society, few scholars explore how these protests change Americans’ perceptions of the police. To investigate this phenomenon more meticulously, we administered an online survey experiment—oversampling Black American participants—to measure how protest culture, specifically BLM protests, influence civilians’ perceptions of the police. Our survey found that 1) Black American participants have a lower evaluation of police performance, but a higher evaluation of the BLM Movement than White American participants; 2) the presence of a general protest negatively impacts peoples’ perception of safety, police trustworthiness, and police performance; and 3) a BLM protest casts a stronger effect on White American participants than on Black American participants. Using Critical Race Theory (CRT) these findings suggest that the visibility of BLM protest changes both Black and White perceptions of the police at varying degrees.
 
-### Gaozhao, D. & Fay, D. L., Rose-colored glasses: The impacts of prior attitudes and performance information on people’s evaluation of “color-blind” university admissions policies.
-
-### Wright, J. E., Gaozhao, D., & Houston, B., The synergy between representation and technology: A conjoint experiment of police use-of-force.
-
 ### Gaozhao, D., Lee, H., & Berry, F. S., The others will help: Citizen coproduction and bystander apathy.
 
+### Gaozhao, D. & Fay, D. L., Rose-colored glasses: The impacts of prior attitudes and performance information on people’s evaluation of “color-blind” university admissions policies.
+
 ### Gaozhao, D. & Fay, D. L., Fighting fake news: What public organizations and managers can do to counter health misinformation?
+
+### Wright, J. E., Gaozhao, D., & Houston, B., The synergy between representation and technology: A conjoint experiment of police use-of-force.
 
 ### Lee, H. & Gaozhao, D., Tap and share: Citizens’ willingness to co-produce and share information via city mobile apps.
 
