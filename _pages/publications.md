@@ -9,6 +9,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 ## Peer-reviewed Articles
+* Wright, J. E., **Gaozhao, D.**, Dukes, K., & Templeton, D. P., The power of protest on policing: Black Lives Matter protest and civilians evaluation of the police. _Public Administration Review_. Accepted. 
+
 * **Gaozhao, D.** (2021). Flagging fake news on social media: An experiment of media consumers’ identification of fake news. _Government Information Quarterly_. _38_(3), 101591. <a href="https://osf.io/r5wte" target="_blank"><u>[Preregistration]</u></a> <a href="https://www.researchgate.net/publication/345413560_Flagging_fake_news_on_social_media_An_experiment_of_media_consumers'_identification_of_fake_news" target="_blank"><u>[Pre-print]</u></a> <a href="https://doi.org/10.1016/j.giq.2021.101591" target="_blank"><u>[Post-print]</u></a>
   - Florida State University _de Guzman Best Graduate Paper Award_ for 2020
   - Media Appearance: <a href="https://www.ncc.gov.tw/chinese/files/21042/5190_45998_210429_1.pdf" target="_blank"><u>Taiwan Communications Commission</u></a>, <a href="https://www.medicalnewstoday.com/articles/how-has-social-media-affected-mental-health-during-the-pandemic" target="_blank"><u>Medical News Today</u></a>
