@@ -6,9 +6,9 @@ permalink: /working_projects/
 ---
 
 **Gaozhao, D.**, Wright, J. E., & Robinson, M. K., Do algorithms know all? Citizens’ perceptions of employing artificial intelligence in government decisions. (Revised and resubmitted to _Public Management Review_) <br/>
-<small>[ <a href="#/" onclick="visib('staggeredefficient')">Abstract</a> | [Draft][ai-preprint] | [R package][staggeredefficient-package] | [Stata package][staggeredefficient-stata-package] ]</small>
+<small>[ <a href="#/" onclick="visib('ai-abstract')">Abstract</a> | [Draft][ai-preprint] ]</small>
 
-<div id="staggeredefficient" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="ai-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Artificial intelligence (AI) is increasingly being used in public service delivery. This presents several questions still left unknown about how citizens view the use of AI. In particular, are their perceptions of decisions made by AI different from those made by humans? This paper begins to answer this question by conducting a conjoint experiment to investigate citizens’ preferences and evaluations of decisions made by bureaucrats and by AI. Our results show that individuals generally prefer a racially minoritized government agent with a longer training history to deliver public services, over AI decisions. This is particularly true for racially minoritized citizens who care about representation. However, when representation within the bureaucracy is not possible, racially minoritized individuals do not have a clear-cut preference between AI and out-group bureaucrats. Our findings provide insight into the interaction between automation, representation, and equity in the delivery of public services.
 </small><br><br/></div>
 
