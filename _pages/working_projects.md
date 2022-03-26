@@ -1,7 +1,6 @@
 ---
 title: "Working Projects"
-layout: single
-classes: wide
+layout: achieve
 permalink: /working_projects/
 ---
 
