@@ -5,8 +5,7 @@ permalink: /working_projects/
 author_profile: true
 ---
 
-**Gaozhao, D.**, Wright, J. E., & Robinson, M. K., Do algorithms know all? Citizens’ perceptions of employing artificial intelligence in government decisions. (Revised and resubmitted to _Public Management Review_) <br/>
-<small>[ <a href="#/" onclick="visib('ai-abstract')">Abstract</a> | [Draft][ai-preprint] ]</small>
+**Gaozhao, D.**, Wright, J. E., & Robinson, M. K., Do algorithms know all? Citizens’ perceptions of employing artificial intelligence in government decisions. (Revised and resubmitted to _Public Management Review_) <small>[ <a href="#/" onclick="visib('ai-abstract')">Abstract</a> | [Draft][ai-preprint] ]</small>
 
 <div id="ai-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Artificial intelligence (AI) is increasingly being used in public service delivery. This presents several questions still left unknown about how citizens view the use of AI. In particular, are their perceptions of decisions made by AI different from those made by humans? This paper begins to answer this question by conducting a conjoint experiment to investigate citizens’ preferences and evaluations of decisions made by bureaucrats and by AI. Our results show that individuals generally prefer a racially minoritized government agent with a longer training history to deliver public services, over AI decisions. This is particularly true for racially minoritized citizens who care about representation. However, when representation within the bureaucracy is not possible, racially minoritized individuals do not have a clear-cut preference between AI and out-group bureaucrats. Our findings provide insight into the interaction between automation, representation, and equity in the delivery of public services.
@@ -16,16 +15,14 @@ Artificial intelligence (AI) is increasingly being used in public service delive
 
 
 
-**Gaozhao, D.** & Fay, D. L., Rose-colored glasses: The impacts of prior attitudes and performance information on people’s evaluation of “color-blind” university admissions policies. <br/>
-<small>[ <a href="#/" onclick="visib('rose-colored')">Abstract</a> ]</small>
+**Gaozhao, D.** & Fay, D. L., Rose-colored glasses: The impacts of prior attitudes and performance information on people’s evaluation of “color-blind” university admissions policies. <small>[ <a href="#/" onclick="visib('rose-colored')">Abstract</a> ]</small>
 
 <div id="rose-colored" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Performance information is a useful means to inform individuals’ evaluations of public policies and organizational performance. However, recent research suggests that people view performance information through a racialized lens and allow their preexisting attitudes to influence their interpretation. These attitudes may further interact with the myth of “fake news,” providing an excuse for people to reject certain information that is incompatible with their beliefs. In a context of affirmative action ban in colleges, this article uses an experiment to investigate how people may evaluate the policy and the performance of organizations implementing it. In addition, the article examines whether people may dismiss performance information as “fake news” because it does not conform to their established beliefs. The results show that in contemporary policy discourse, many narratives can be cut off at the knees and dismissed with a simple battle cry of “fake news.”
 </small><br><br/></div>
 
 
-Wright, J. E., **Gaozhao, D.**, & Houston, B., The synergy between representation and technology: A conjoint experiment of police use-of-force. (Under review at _Governance_) <br/>
-<small>[ <a href="#/" onclick="visib('bodycam')">Abstract</a> ]</small>
+Wright, J. E., **Gaozhao, D.**, & Houston, B., The synergy between representation and technology: A conjoint experiment of police use-of-force. (Under review at _Governance_) <small>[ <a href="#/" onclick="visib('bodycam')">Abstract</a> ]</small>
 
 <div id="bodycam" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Public administration scholarship seeks to understand how representation can be a tool in increasing accountability within the policing profession. Recently, the introduction of body-worn cameras (BWCs) has added another layer to this accountability enigma. We employ an online conjoint experiment to disentangle the effects of both representation and BWC on police accountability and legitimacy. In the experiment, we ask participants to rate the likelihood that a police use of force incident prompts an investigation when there is a BWC present and representation (both gender and racial) matches between the officer and the civilian in the use of force incident. From our analysis, we find that Caucasian officers who use force are more likely to be investigated. Our findings also reveal that civilians believe male officers who use force should be investigated and there is no need for further police investigation when a BWC is utilized during a use of force situation. The implications of this study show that civilians view BWCs as the most important tool is providing accurate and honest assessment of police-civilian encounters, irrespective of the racial and gender makeup of the police and civilian during the encounter.
