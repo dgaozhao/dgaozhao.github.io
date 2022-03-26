@@ -2,6 +2,7 @@
 title: "Working Projects"
 layout: achieve
 permalink: /working_projects/
+author_profile: true
 ---
 
 **Gaozhao, D.**, Wright, J. E., & Robinson, M. K., Do algorithms know all? Citizens’ perceptions of employing artificial intelligence in government decisions. (Revised and resubmitted to _Public Management Review_) <br/>
