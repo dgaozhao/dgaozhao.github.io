@@ -42,3 +42,18 @@ Lee, H. & **Gaozhao, D.**, Tap and share: Citizens’ willingness to co-produce 
 
 
 Kim, J. & **Gaozhao, D.**, Performance rating and motivation for organizational politics in public and non-profit sectors: A list experiment of employees’ response to perceived fairness in performance appraisal.
+
+
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
