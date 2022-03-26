@@ -1,21 +1,25 @@
 ---
-layout: archive
+layout: single
+classes: wide
 title: "Working Projects"
 permalink: /working_projects/
 author_profile: true
 ---
 
-### **Gaozhao, D.**, Wright, J. E., & Robinson, M. K., Do algorithms know all? Citizens’ perceptions of employing artificial intelligence in government decisions. (Revised and resubmitted to _Public Management Review_) <br/>
-<small>[ <a href="#/" onclick="visib('AI')">Abstract</a> | [Draft][AI-preprint] ]</small>
+# <center> Working Projects </center>
+- - -
 
-<div id="AI" style="display: none; text-align: justify; line-height: 1.2" ><small>
+**Gaozhao, D.**, Wright, J. E., & Robinson, M. K., Do algorithms know all? Citizens’ perceptions of employing artificial intelligence in government decisions. (Revised and resubmitted to _Public Management Review_) <br/>
+<small>[ <a href="#/" onclick="visib('ai-abstract')">Abstract</a> | [Draft][ai-preprint] ]</small>
+
+<div id="ai-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Artificial intelligence (AI) is increasingly being used in public service delivery. This presents several questions still left unknown about how citizens view the use of AI. In particular, are their perceptions of decisions made by AI different from those made by humans? This paper begins to answer this question by conducting a conjoint experiment to investigate citizens’ preferences and evaluations of decisions made by bureaucrats and by AI. Our results show that individuals generally prefer a racially minoritized government agent with a longer training history to deliver public services, over AI decisions. This is particularly true for racially minoritized citizens who care about representation. However, when representation within the bureaucracy is not possible, racially minoritized individuals do not have a clear-cut preference between AI and out-group bureaucrats. Our findings provide insight into the interaction between automation, representation, and equity in the delivery of public services.
 </small><br><br/></div>
 
-[AI-preprint]: https://www.researchgate.net/publication/353169009_Do_algorithms_know_all_Civilians'_perception_of_employing_artificial_intelligence_in_government_decisions
+[ai-preprint]: https://www.researchgate.net/publication/353169009_Do_algorithms_know_all_Civilians'_perception_of_employing_artificial_intelligence_in_government_decisions
 
 
-### Gaozhao, D. & Fay, D. L., Rose-colored glasses: The impacts of prior attitudes and performance information on people’s evaluation of “color-blind” university admissions policies. <br/>
+**Gaozhao, D.** & Fay, D. L., Rose-colored glasses: The impacts of prior attitudes and performance information on people’s evaluation of “color-blind” university admissions policies. <br/>
 <small>[ <a href="#/" onclick="visib('rose-colored')">Abstract</a> ]</small>
 
 <div id="rose-colored" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -24,7 +28,7 @@ Performance information is a useful means to inform individuals’ evaluations o
 
 
 
-### Wright, J. E., Gaozhao, D., & Houston, B., The synergy between representation and technology: A conjoint experiment of police use-of-force. (Under review at _Governance_) <br/>
+Wright, J. E., **Gaozhao, D.**, & Houston, B., The synergy between representation and technology: A conjoint experiment of police use-of-force. (Under review at _Governance_) <br/>
 
 <small>[ <a href="#/" onclick="visib('bodycam')">Abstract</a> ]</small>
 
@@ -33,10 +37,10 @@ Public administration scholarship seeks to understand how representation can be 
 </small><br><br/></div>
  
 
-### Gaozhao, D., Lee, H., & Berry, F. S., The others will help: Citizen coproduction and bystander apathy.
+**Gaozhao, D.**, Lee, H., & Berry, F. S., The others will help: Citizen coproduction and bystander apathy.
 
-### Gaozhao, D. & Fay, D. L., Fighting fake news: What public organizations and managers can do to counter health misinformation?
+**Gaozhao, D.** & Fay, D. L., Fighting fake news: What public organizations and managers can do to counter health misinformation?
 
-### Lee, H. & Gaozhao, D., Tap and share: Citizens’ willingness to co-produce and share information via city mobile apps.
+Lee, H. & **Gaozhao, D.**, Tap and share: Citizens’ willingness to co-produce and share information via city mobile apps.
 
-### Kim, J. & Gaozhao, D., Performance rating and motivation for organizational politics in public and non-profit sectors: A list experiment of employees’ response to perceived fairness in performance appraisal.
+Kim, J. & **Gaozhao, D.**, Performance rating and motivation for organizational politics in public and non-profit sectors: A list experiment of employees’ response to perceived fairness in performance appraisal.
