@@ -28,9 +28,9 @@ Policymakers are taking action to protect their citizens and democratic systems 
 [fake-news-preprint]: https://www.researchgate.net/publication/345413560_Flagging_fake_news_on_social_media_An_experiment_of_media_consumers'_identification_of_fake_news
 [fake-news-postprint]: https://doi.org/10.1016/j.giq.2021.101591
   - Florida State University _de Guzman Best Graduate Paper Award_ for 2020
-  - Media Appearance: <a href="https://www.ncc.gov.tw/chinese/files/21042/5190_45998_210429_1.pdf" target="_blank"><u>Taiwan Communications Commission</u></a>, <a href="https://www.medicalnewstoday.com/articles/how-has-social-media-affected-mental-health-during-the-pandemic" target="_blank"><u>Medical News Today</u></a>]
+  - Media Appearance: <a href="https://www.ncc.gov.tw/chinese/files/21042/5190_45998_210429_1.pdf" target="_blank"><u>Taiwan Communications Commission</u></a>, <a href="https://www.medicalnewstoday.com/articles/how-has-social-media-affected-mental-health-during-the-pandemic" target="_blank"><u>Medical News Today</u></a>
 
-Wright, J. E., **Gaozhao, D.**, & Snow, M. A. (2021). Place plus race effects in bureaucratic discretionary power: An analysis of residential segregation and police stop decisions. _Public Performance & Management Review_. _44_(2), 352-377. <small>[ <a href="#/" onclick="visib('segregation-abstract')">Abstract</a> | [Postprint][segregation-postprint]]</small>
+Wright, J. E., **Gaozhao, D.**, & Snow, M. A. (2021). Place plus race effects in bureaucratic discretionary power: An analysis of residential segregation and police stop decisions. _Public Performance & Management Review_. _44_(2), 352-377. <small>[ <a href="#/" onclick="visib('segregation-abstract')">Abstract</a> | [Postprint][segregation-postprint] ]</small>
 
 <div id="segregation-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Discrepancies in bureaucrat behavior, residential segregation, and police stops that turn deadly have spurred critical analysis surrounding who gets stopped by the police and what happens once they get stopped. This study considers the effect of officers’ decision when performing vehicle stops and conducting vehicle or person searches, as measured at the block group level in Minneapolis neighborhoods. This research is one of the few empirical studies within public administration which examines police stop decisions during vehicle stops in segregated areas, and one of the few empirical studies that explores police actions toward immigrants. We find that majority African American areas of high segregation have 40% more vehicle or person searches than other parts of the city. Second, we find that in predominately African American areas with growing pockets of East African immigrant areas will be subject to 50% more vehicle and person searches. These results indicate that Black (whether native or foreign born) populations of people are more likely to have investigatory interactions with police officers.
@@ -42,11 +42,11 @@ Discrepancies in bureaucrat behavior, residential segregation, and police stops 
 
 
 ## Policy Briefs & Popular Writings
-Beatty, C. C., Wright, J. E., **Gaozhao, D.**, Wiborg, E. R., Clay, A. Jr., & Davis, K. (2020). COVID-19 in Florida: A breakdown of disparities in the Black population by county for June & July 2020. Florida State University Libraries. <small>[ <a href="#/" [Report][covid-report1]]</small>
+Beatty, C. C., Wright, J. E., **Gaozhao, D.**, Wiborg, E. R., Clay, A. Jr., & Davis, K. (2020). COVID-19 in Florida: A breakdown of disparities in the Black population by county for June & July 2020. Florida State University Libraries. <small>[ [Report][covid-report1] ]</small>
 
 [covid-report1]: https://diginole.lib.fsu.edu/islandora/object/fsu%3A752394
 
-**Gaozhao, D.** & Clay, A. Jr. (2020). COVID-19 in Florida: Disparities in the Black population. Wicked Problems, Wicked Solutions. <small>[ <a href="#/" [Report][covid-report2]]</small> 
+**Gaozhao, D.** & Clay, A. Jr. (2020). COVID-19 in Florida: Disparities in the Black population. Wicked Problems, Wicked Solutions. <small>[ [Report][covid-report2] ]</small> 
 
 [covid-report2]: https://wicked-solutions.blog/2020/10/19/covid-19-in-florida-disparities-in-the-black-population/
 
