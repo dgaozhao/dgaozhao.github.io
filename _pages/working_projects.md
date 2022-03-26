@@ -6,9 +6,6 @@ permalink: /working_projects/
 author_profile: true
 ---
 
-# <center> Working Projects </center>
-- - -
-
 **Gaozhao, D.**, Wright, J. E., & Robinson, M. K., Do algorithms know all? Citizens’ perceptions of employing artificial intelligence in government decisions. (Revised and resubmitted to _Public Management Review_) <br/>
 <small>[ <a href="#/" onclick="visib('ai-abstract')">Abstract</a> | [Draft][ai-preprint] ]</small>
 
@@ -27,7 +24,6 @@ Performance information is a useful means to inform individuals’ evaluations o
 </small><br><br/></div>
 
 
-
 Wright, J. E., **Gaozhao, D.**, & Houston, B., The synergy between representation and technology: A conjoint experiment of police use-of-force. (Under review at _Governance_) <br/>
 
 <small>[ <a href="#/" onclick="visib('bodycam')">Abstract</a> ]</small>
@@ -39,8 +35,11 @@ Public administration scholarship seeks to understand how representation can be 
 
 **Gaozhao, D.**, Lee, H., & Berry, F. S., The others will help: Citizen coproduction and bystander apathy.
 
+
 **Gaozhao, D.** & Fay, D. L., Fighting fake news: What public organizations and managers can do to counter health misinformation?
 
+
 Lee, H. & **Gaozhao, D.**, Tap and share: Citizens’ willingness to co-produce and share information via city mobile apps.
+
 
 Kim, J. & **Gaozhao, D.**, Performance rating and motivation for organizational politics in public and non-profit sectors: A list experiment of employees’ response to perceived fairness in performance appraisal.
