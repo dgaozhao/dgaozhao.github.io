@@ -5,7 +5,7 @@ permalink: /working_projects/
 author_profile: true
 ---
 
-### **Gaozhao, D.**, Wright, J. E., & Robinson, M. K., Do algorithms know all? Citizens’ perceptions of employing artificial intelligence in government decisions. (Invited to revise and resubmit to _Public Management Review_). <br/>
+### **Gaozhao, D.**, Wright, J. E., & Robinson, M. K., Do algorithms know all? Citizens’ perceptions of employing artificial intelligence in government decisions. (Revised and resubmitted to _Public Management Review_). <br/>
 <small>[ <a href="#/" onclick="visib('AI')">Abstract</a> | [Draft][AI-preprint] ]</small>
 
 <div id="AI" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -24,7 +24,7 @@ Performance information is a useful means to inform individuals’ evaluations o
 
 
 
-### Wright, J. E., Gaozhao, D., & Houston, B., The synergy between representation and technology: A conjoint experiment of police use-of-force. (Submitting to _Governance_). <br/>
+### Wright, J. E., Gaozhao, D., & Houston, B., The synergy between representation and technology: A conjoint experiment of police use-of-force. (Under review at _Governance_). <br/>
 
 <small>[ <a href="#/" onclick="visib('bodycam')">Abstract</a> ]</small>
 
