@@ -5,12 +5,6 @@ permalink: /working_projects/
 author_profile: true
 ---
 
-**Efficient Estimation for Staggered Rollout Designs** (with Pedro Sant'Anna). 2022.<br/>
-<small>[ <a href="#/" onclick="visib('staggeredefficient')">Abstract</a> | [Draft][staggeredefficient-arxiv] | [R package][staggeredefficient-package] | [Stata package][staggeredefficient-stata-package] ]</small>
-
-
-
-
 ### **Gaozhao, D.**, Wright, J. E., & Robinson, M. K., Do algorithms know all? Citizens’ perceptions of employing artificial intelligence in government decisions. (Invited to revise and resubmit to _Public Management Review_). <br/>
 <small>[ <a href="#/" onclick="visib('AI')">Abstract</a> | [Draft][AI-preprint] ]</small>
 
