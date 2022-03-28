@@ -47,7 +47,7 @@ Discrepancies in bureaucrat behavior, residential segregation, and police stops 
 
 [segregation-postprint]: https://doi.org/10.1080/15309576.2020.1798789
 
-<small>Media Appearance: [The Washington Post][twp], [Bill of Health][boh], [Florida Politics][flp], [Newswise][newswise], [sciencenewsnet.in][sciencenewsnet.in][</small>
+<small>Media Appearance: [The Washington Post][twp], [Bill of Health][boh], [Florida Politics][flp], [Newswise][newswise], [sciencenewsnet.in][sciencenewsnet.in]</small>
 
 [twp]: https://www.washingtonpost.com/politics/2021/04/15/derek-chauvins-murder-trial-puts-local-governments-stand/
 [boh]: https://blog.petrieflom.law.harvard.edu/2021/09/10/health-justice-criminal-legal-system/
