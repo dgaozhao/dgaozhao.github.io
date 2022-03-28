@@ -4,6 +4,7 @@ title: ""
 permalink: /working_projects/
 author_profile: true
 ---
+## 
 
 **Do algorithms know all? Citizens’ perceptions of employing artificial intelligence in government decisions** (Dongfang Gaozhao, James E. Wright II, and Mylah K. Robinson). Revised and resubmitted to _Public Management Review_. <small>[ <a href="#/" onclick="visib('ai-abstract')">Abstract</a> | [Draft][ai-preprint] ]</small>
 
