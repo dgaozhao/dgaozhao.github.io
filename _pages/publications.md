@@ -47,7 +47,13 @@ Discrepancies in bureaucrat behavior, residential segregation, and police stops 
 
 [segregation-postprint]: https://doi.org/10.1080/15309576.2020.1798789
 
-  - Media Appearance: <a href="https://www.washingtonpost.com/politics/2021/04/15/derek-chauvins-murder-trial-puts-local-governments-stand/" target="_blank"><u>The Washington Post</u></a>, <a href="https://blog.petrieflom.law.harvard.edu/2021/09/10/health-justice-criminal-legal-system/" target="_blank"><u>Bill of Health</u></a>, <a href="https://floridapolitics.com/archives/358332-takeaways-from-tallahassee-early-voting-gratitude/" target="_blank"><u>Florida Politics</u></a>, <a href="https://www.newswise.com/politics/fsu-researcher-finds-links-between-police-searches-and-race-in-minneapolis/?article_id=736395" target="_blank"><u>Newswise</u></a>, <a href="https://sciencenewsnet.in/fsu-researcher-finds-links-between-police-searches-and-race-in-minneapolis/" target="_blank"><u>sciencenewsnet.in</u></a>
+<small>Media Appearance: [The Washington Post][twp], [Bill of Health][boh], [Florida Politics][flp], [Newswise][newswise], [sciencenewsnet.in][sciencenewsnet.in][</small>
+
+[twp]: https://www.washingtonpost.com/politics/2021/04/15/derek-chauvins-murder-trial-puts-local-governments-stand/
+[boh]: https://blog.petrieflom.law.harvard.edu/2021/09/10/health-justice-criminal-legal-system/
+[flp]: https://floridapolitics.com/archives/358332-takeaways-from-tallahassee-early-voting-gratitude/
+[newswise]: https://www.newswise.com/politics/fsu-researcher-finds-links-between-police-searches-and-race-in-minneapolis/?article_id=736395
+[sciencenewsnet.in]: https://sciencenewsnet.in/fsu-researcher-finds-links-between-police-searches-and-race-in-minneapolis/
 
 
 ## Policy Briefs & Popular Writings
