@@ -8,6 +8,7 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
+
 ## Peer-reviewed Articles
 Wright, J. E., **Gaozhao, D.**, Dukes, K., & Templeton, D. P., The power of protest on policing: Black Lives Matter protest and civilians evaluation of the police. _Public Administration Review_. Accepted. <small>[ <a href="#/" onclick="visib('blm-abstract')">Abstract</a> | [Preregistration][blm-prereg] ]</small>
 
@@ -56,7 +57,6 @@ Beatty, C. C., Wright, J. E., **Gaozhao, D.**, Wiborg, E. R., Clay, A. Jr., & Da
 [covid-report2]: https://wicked-solutions.blog/2020/10/19/covid-19-in-florida-disparities-in-the-black-population/
 
 
-  
 [//]: This java script is the button to show abstract
 <script>
  function visib(id) {
