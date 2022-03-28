@@ -10,7 +10,8 @@ author_profile: true
 {% endif %}
 
 ## Peer-reviewed Articles
-Wright, J. E., **Gaozhao, D.**, Dukes, K., & Templeton, D. P., The power of protest on policing: Black Lives Matter protest and civilians evaluation of the police. _Public Administration Review_. Accepted. <small>[ <a href="#/" onclick="visib('blm-abstract')">Abstract</a> | [Preregistration][blm-prereg] ]</small>
+**The power of protest on policing: Black Lives Matter protest and civilians evaluation of the police**. _Public Administration Review_. Accepted. <br/>
+<small>Wright, J. E., **Gaozhao, D.**, Dukes, K., & Templeton, D. P. [ <a href="#/" onclick="visib('blm-abstract')">Abstract</a> | [Preregistration][blm-prereg] ]</small>
 
 <div id="blm-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
 In 2020, police brutality against Black Americans catalyzed BLM protests across all 50 states. Though BLM protests continue to permeate society, few scholars explore how these protests change Americans’ perceptions of the police. To investigate this phenomenon more meticulously, we administered an online survey experiment—oversampling Black American participants—to measure how protest culture, specifically BLM protests, influence participants’ perceptions of the police. Our survey found that 1) Black American participants have a lower evaluation of police performance, but a higher evaluation of the BLM Movement than White American participants and 2) the presence of a general protest negatively impacts peoples’ perception of police performance. Using Critical Race Theory (CRT) these findings suggest that the visibility of BLM protest changes both Black and White perceptions of the police at varying degrees.
