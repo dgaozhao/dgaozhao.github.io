@@ -27,8 +27,13 @@ Policymakers are taking action to protect their citizens and democratic systems 
 [fake-news-prereg]: https://osf.io/4g7mw
 [fake-news-preprint]: https://www.researchgate.net/publication/345413560_Flagging_fake_news_on_social_media_An_experiment_of_media_consumers'_identification_of_fake_news
 [fake-news-postprint]: https://doi.org/10.1016/j.giq.2021.101591
-  - Florida State University _de Guzman Best Graduate Paper Award_ for 2020
-  - Media Appearance: <a href="https://www.ncc.gov.tw/chinese/files/21042/5190_45998_210429_1.pdf" target="_blank"><u>Taiwan Communications Commission</u></a>, <a href="https://www.medicalnewstoday.com/articles/how-has-social-media-affected-mental-health-during-the-pandemic" target="_blank"><u>Medical News Today</u></a>
+
+<small>Florida State University _de Guzman Best Graduate Paper Award_ for 2020<br/>
+Media Appearance: [Taiwan Communications Commission][Taiwan-Communications-Commission], [Medical News Today][Medical-News-Today]</small>
+
+[Taiwan-Communications-Commission]: https://www.ncc.gov.tw/chinese/files/21042/5190_45998_210429_1.pdf
+[Medical-News-Today]: https://www.medicalnewstoday.com/articles/how-has-social-media-affected-mental-health-during-the-pandemic
+
 
 Wright, J. E., **Gaozhao, D.**, & Snow, M. A. (2021). Place plus race effects in bureaucratic discretionary power: An analysis of residential segregation and police stop decisions. _Public Performance & Management Review_. _44_(2), 352-377. <small>[ <a href="#/" onclick="visib('segregation-abstract')">Abstract</a> | [Postprint][segregation-postprint] ]</small>
 
