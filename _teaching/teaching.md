@@ -13,7 +13,7 @@ Undergraduate course | Fall 2020, Spring 2021, Fall 2021, & Spring 2022 <small>[
 [PAD3003-Syllabus]: https://dgaozhao.github.io/files/PAD3003%20Syllabus.pdf
 
 **Quantitative Analysis in Public Administration**<br/>
-Graduate course | Fall 2018 & Spring 2019. Guest instructor on the topics of research design and logistic regression <small>[ [Slides][PAD5701-Slides] ]</small> 
+Graduate course | Fall 2018 & Spring 2019. Guest instructor on the topics of research design and regression <small>[ [Slides][PAD5701-Slides] ]</small> 
 
 [PAD5701-Slides]: https://dgaozhao.github.io/files/Introduction%20to%20Experimental%20Design%20and%20Logistic%20Regression.pdf
 
