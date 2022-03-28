@@ -23,7 +23,7 @@ Performance information is a useful means to inform individuals’ evaluations o
 </small><br><br/></div>
 
 
-**The synergy between representation and technology: A conjoint experiment of police use-of-force** (James E. Wright II, Dongfang Gaozhao, and Britney Houston)<br/>
+**The synergy between representation and technology: A conjoint experiment of police use-of-force** (James E. Wright II, Dongfang Gaozhao, and Brittany Houston)<br/>
 <small>Under review at _Governance_ [ <a href="#/" onclick="visib('bodycam')">Abstract</a> ]</small>
 
 <div id="bodycam" style="display: none; text-align: justify; line-height: 1.2" ><small>
