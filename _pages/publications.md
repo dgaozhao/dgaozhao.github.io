@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 ## Peer-reviewed Articles
-**The power of protest on policing: Black Lives Matter protest and civilians evaluation of the police** (James E. Wright II, **Dongfang Gaozhao**, Kenneth Dukes, and Da'Shay P. Templeton)<br/>
+**The power of protest on policing: Black Lives Matter protest and civilians evaluation of the police** (James E. Wright II, Dongfang Gaozhao, Kenneth Dukes, and Da'Shay P. Templeton)<br/>
 _Public Administration Review_. Forcoming. <small>[ <a href="#/" onclick="visib('blm-abstract')">Abstract</a> | [Preregistration][blm-prereg] ]</small>
 
 <div id="blm-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -20,7 +20,7 @@ In 2020, police brutality against Black Americans catalyzed BLM protests across 
 [blm-prereg]: https://osf.io/43qe8
 
 
-**Flagging fake news on social media: An experiment of media consumers’ identification of fake news** (**Dongfang Gaozhao**)<br/>
+**Flagging fake news on social media: An experiment of media consumers’ identification of fake news** (Dongfang Gaozhao)<br/>
 _Government Information Quarterly_, 2021, _38_(3), 101591. <small>[ <a href="#/" onclick="visib('fake-news-abstract')">Abstract</a> | [Preregistration][fake-news-prereg] | [Preprint][fake-news-preprint] | [Postprint][fake-news-postprint] ]</small><br/>
 <small>Florida State University _de Guzman Best Graduate Paper Award_ for 2020<br/>
 Media Appearance: [Taiwan Communications Commission][taiwan-communications-commission], [Medical News Today][medical-news-today]</small>
@@ -36,7 +36,7 @@ Policymakers are taking action to protect their citizens and democratic systems 
 [medical-news-today]: https://www.medicalnewstoday.com/articles/how-has-social-media-affected-mental-health-during-the-pandemic
 
 
-**Place plus race effects in bureaucratic discretionary power: An analysis of residential segregation and police stop decisions** (James E. Wright II, **Dongfang Gaozhao**, and Meagan A. Snow)<br/>
+**Place plus race effects in bureaucratic discretionary power: An analysis of residential segregation and police stop decisions** (James E. Wright II, Dongfang Gaozhao, and Meagan A. Snow)<br/>
 _Public Performance & Management Review_, 2021, _44_(2), 352-377. <small>[ <a href="#/" onclick="visib('segregation-abstract')">Abstract</a> | [Postprint][segregation-postprint] ]</small><br/>
 <small>Media Appearance: [The Washington Post][twp], [Bill of Health][boh], [Florida Politics][flp], [Newswise][newswise], [sciencenewsnet.in][sciencenewsnet.in]</small>
 
@@ -53,12 +53,12 @@ Discrepancies in bureaucrat behavior, residential segregation, and police stops 
 
 
 ## Policy Briefs & Popular Writings
-**COVID-19 in Florida: A breakdown of disparities in the Black population by county for June & July 2020** (Cameron C. Beatty, James E. Wright II, **Dongfang Gaozhao**, Erica R. Wiborg, Allen Clay, Jr., and Keandra Davis)<br/>
+**COVID-19 in Florida: A breakdown of disparities in the Black population by county for June & July 2020** (Cameron C. Beatty, James E. Wright II, Dongfang Gaozhao, Erica R. Wiborg, Allen Clay, Jr., and Keandra Davis)<br/>
 <small> Florida State University Libraries, 2020. [ [Report][covid-report1] ]</small>
 
 [covid-report1]: https://purl.lib.fsu.edu/diginole/FSU_libsubv1_scholarship_submission_1597298714_e2d33148
 
-**COVID-19 in Florida: Disparities in the Black population** (**Dongfang Gaozhao** and Allen Clay, Jr.)<br/>
+**COVID-19 in Florida: Disparities in the Black population** (Dongfang Gaozhao and Allen Clay, Jr.)<br/>
 <small>Wicked Problems, Wicked Solutions, 2020. [ [Webpage][covid-report2] ]</small> 
 
 [covid-report2]: https://wicked-solutions.blog/2020/10/19/covid-19-in-florida-disparities-in-the-black-population/
