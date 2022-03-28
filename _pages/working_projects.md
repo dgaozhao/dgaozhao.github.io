@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Working Projects"
 layout: archive
 permalink: /working_projects/
 author_profile: true
@@ -12,6 +12,7 @@ Artificial intelligence (AI) is increasingly being used in public service delive
 </small><br><br/></div>
 
 [ai-preprint]: https://www.researchgate.net/publication/353169009_Do_algorithms_know_all_Civilians'_perception_of_employing_artificial_intelligence_in_government_decisions
+
 
 
 **Gaozhao, D.** & Fay, D. L., Rose-colored glasses: The impacts of prior attitudes and performance information on people’s evaluation of “color-blind” university admissions policies. <small>[ <a href="#/" onclick="visib('rose-colored')">Abstract</a> ]</small>
@@ -28,11 +29,10 @@ Public administration scholarship seeks to understand how representation can be 
 </small><br><br/></div>
  
 
-**Gaozhao, D.**, Lee, H., & Berry, F. S., The others will help: Citizen coproduction and bystander apathy. <small>[ <a href="#/" onclick="visib('bystander')">Abstract</a> ]</small>
+**Gaozhao, D.**, Lee, H., & Berry, F. S., The others will help: Citizen coproduction and bystander apathy.
 
-<div id="bystander" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Both citizens and public organizations can benefit from coproduction. From the citizens’ perspective, their participation in coproduction may result in an efficient, effective, and equitable governance and produce individual and collective benefits for themselves. On the other hand, participating in coproduction has its psychological costs, such as social desirability and administrative burden. The calculus of coproduction allows researchers to understand citizens’ motivation of coproduction and answer why people coproduce sometimes but not at other times. This study follows this logic and investigates the bystander effect on individuals’ willingness to coproduce.
- </small><br><br/></div>
+
+**Gaozhao, D.** & Fay, D. L., Fighting fake news: What public organizations and managers can do to counter health misinformation?
 
 
 Lee, H. & **Gaozhao, D.**, Tap and share: Citizens’ willingness to co-produce and share information via city mobile apps.
