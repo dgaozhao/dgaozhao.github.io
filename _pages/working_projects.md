@@ -31,7 +31,7 @@ Public administration scholarship seeks to understand how representation can be 
 </small><br><br/></div>
  
 
-**The others will help: Citizen coproduction and bystander apathy** (Dongfang Gaozhao, Heewon Lee, Frances S. Berry)<br/>
+**The others will help: Citizen coproduction and bystander apathy** (Dongfang Gaozhao, Heewon Lee, and Frances S. Berry)<br/>
 <small>[ <a href="#/" onclick="visib('bystander')">Abstract</a> ]</small>
 
 <div id="bystander" style="display: none; text-align: justify; line-height: 1.2" ><small>
