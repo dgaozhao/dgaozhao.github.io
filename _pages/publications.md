@@ -57,7 +57,7 @@ Discrepancies in bureaucrat behavior, residential segregation, and police stops 
 [covid-report1]: https://purl.lib.fsu.edu/diginole/FSU_libsubv1_scholarship_submission_1597298714_e2d33148
 
 **COVID-19 in Florida: Disparities in the Black population** (with Allen Clay, Jr.)<br/>
-<small>Wicked Problems, Wicked Solutions, 2020 [ [Report][covid-report2] ]</small> 
+<small>Wicked Problems, Wicked Solutions, 2020. [ [Webpage][covid-report2] ]</small> 
 
 [covid-report2]: https://wicked-solutions.blog/2020/10/19/covid-19-in-florida-disparities-in-the-black-population/
 
