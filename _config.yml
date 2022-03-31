@@ -83,7 +83,7 @@ author:
   name             : "Dongfang Gaozhao"
   avatar           : "Dongfang Gaozhao.jpg"
   bio              : "Ph.D. candidate at Florida State University"
-  location         : "Tallahassee, FL"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5CRQvzEAAAAJ&hl=en&oi=ao"
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : #"https://orcid.org/0000-0002-9807-1098"
+  orcid            : "https://orcid.org/0000-0002-9807-1098"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
