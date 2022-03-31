@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : dgaozhao
+  username               : &dgaozhao
 facebook:
   username               :
   app_id                 :
@@ -109,16 +109,13 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : #"dgaozhao"
+  twitter          : "dgaozhao"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  link             :
-  - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/dgaozhao"
+
 # Reading Files
 include:
   - .htaccess
