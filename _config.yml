@@ -109,15 +109,13 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
+  twitter          : "dgaozhao"
+    - icon         : "fab fa-fw fa-twitter"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  links            :
-    - label        : "Twitter"
-      icon         : "fab fa-fw fa-twitter"
-      url          : "https://twitter.com/dgaozhao"
 
 # Reading Files
 include:
