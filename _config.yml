@@ -48,7 +48,6 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  search                 : true
 
 # SEO Related
 google_site_verification :
@@ -110,7 +109,11 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "dgaozhao"
+  twitter          :
+  links            :
+    - label        : "Twitter"
+      icon         : "fas fa-fw fa-twitter"
+      url          : "https://www.twitter.com/dgaozhao"
   vine             :
   weibo            :
   xing             :
