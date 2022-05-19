@@ -11,13 +11,14 @@ sitemap: true
 {% endif %}
 
 ## Peer-reviewed Articles
-**The power of protest on policing: Black Lives Matter protest and civilians evaluation of the police** (James E. Wright II, Dongfang Gaozhao, Kenneth Dukes, and Da'Shay P. Templeton). _Public Administration Review_, forthcoming. <small>[ <a href="#/" onclick="visib('blm-abstract')">Abstract</a> | [Preregistration][blm-prereg] ]</small>
+**The power of protest on policing: Black Lives Matter protest and civilians evaluation of the police** (James E. Wright II, Dongfang Gaozhao, Kenneth Dukes, and Da'Shay P. Templeton). _Public Administration Review_, forthcoming. <small>[ <a href="#/" onclick="visib('blm-abstract')">Abstract</a> | [Preregistration & Data][blm-prereg] | [Postprint][blm-postprint] ]</small>
 
 <div id="blm-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
 In 2020, police brutality against Black Americans catalyzed BLM protests across all 50 states. Though BLM protests continue to permeate society, few scholars explore how these protests change Americans’ perceptions of the police. To investigate this phenomenon more meticulously, we administered an online survey experiment—oversampling Black American participants—to measure how protest culture, specifically BLM protests, influence participants’ perceptions of the police. Our survey found that 1) Black American participants have a lower evaluation of police performance, but a higher evaluation of the BLM Movement than White American participants and 2) the presence of a general protest negatively impacts peoples’ perception of police performance. Using Critical Race Theory (CRT) these findings suggest that the visibility of BLM protest changes both Black and White perceptions of the police at varying degrees.
 </small><br><br/></div>
 
 [blm-prereg]: https://osf.io/43qe8
+[blm-postprint]: https://doi.org/10.1111/puar.13498
 
 
 **Flagging fake news on social media: An experiment of media consumers’ identification of fake news** (Dongfang Gaozhao). _Government Information Quarterly_, 2021, _38_(3), 101591. <small>[ <a href="#/" onclick="visib('fake-news-abstract')">Abstract</a> | [Preregistration][fake-news-prereg] | [Preprint][fake-news-preprint] | [Postprint][fake-news-postprint] ]</small><br/>
