@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Assistant Professor of Public Administration, Public Policy, Criminal Justice, and Security Studies at the [University of Dayton](https://udayton.edu/artssciences/academics/politicalscience/index.php).
+I am an Assistant Professor of Public Administration, Public Policy, Criminal Justice, and Security Studies at the [University of Dayton](https://udayton.edu/artssciences/academics/politicalscience/index.php).
 
 My primary research interests are in citizen-state interaction from the perspectives of information, technology, and institutions, with a focus on social equity. I have worked on topics like citizen perceptions, fake news, algorithmic fairness, and coproduction. My work has been published or is forthcoming in _Government Information Quarterly_, _Public Administration Review_, and _Public Performance & Management Review_.
 
