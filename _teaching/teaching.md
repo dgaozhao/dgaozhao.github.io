@@ -5,6 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## University of Dayton
+
+**Public Policy Analysis**<br/>
+Undergraduate course | Fall 2022
+
+**Organization Theory**<br/>
+Graduate course | Fall 2022
+
+
 ## Florida State University
 
 **Public Administration in American Society**<br/>
