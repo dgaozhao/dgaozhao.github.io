@@ -12,4 +12,4 @@ I am an assistant professor of public administration, public policy, criminal ju
 
 My primary research interests are in citizen-state interaction from the perspectives of information, technology, and institutions, with a focus on social equity. I have worked on topics like citizen perceptions, fake news, algorithmic fairness, and coproduction. My work has been published or is forthcoming in _Government Information Quarterly_, _Public Administration Review_, and _Public Performance & Management Review_.
 
-I received my Ph.D. in Public Administration and Policy from [Florida State University](https://coss.fsu.edu/askew/), M.P.A. from [Rutgers University](https://spaa.newark.rutgers.edu/), and B.A. in Journalism from [East China University of Political Science and Law](https://www.ecupl.edu.cn/).
+I received my Ph.D. in Public Administration from [Florida State University](https://coss.fsu.edu/askew/), M.P.A. from [Rutgers University](https://spaa.newark.rutgers.edu/), and B.A. in Journalism from [East China University of Political Science and Law](https://www.ecupl.edu.cn/).
