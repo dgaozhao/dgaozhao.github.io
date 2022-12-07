@@ -8,15 +8,6 @@ sitemap: true
 
 ## Projects in Progress
 
-**Bureaucrat or artificial intelligence: People’s preferences and perceptions of government service** (Dongfang Gaozhao, James E. Wright II, and Mylah K. Gainey). R&R at _Public Management Review_. <small>[ <a href="#/" onclick="visib('ai-abstract')">Abstract</a> | [Draft][ai-preprint] ]</small>
-
-<div id="ai-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
-The increasing use of artificial intelligence (AI) in public service delivery presents important yet unanswered questions about citizens’ views of AI. Especially, are citizens’ perceptions of decisions made by AI different from those made by bureaucrats? We answer this question by conducting a conjoint experiment. Our results show that individuals prefer minority bureaucrats over AI to make decisions. This is particularly true for racially minoritized citizens. However, when passive representation within the bureaucracy is unavailable, racially minoritized individuals do not have a clear-cut preference between AI and out-group bureaucrats. Our findings provide insight into the interaction between automation, representation, and equity.
-</small><br><br/></div>
-
-[ai-preprint]: https://www.researchgate.net/publication/353169009_Do_algorithms_know_all_Civilians'_perception_of_employing_artificial_intelligence_in_government_decisions
-
-
 **Rose-colored glasses: The impacts of prior attitudes and performance information on people’s evaluation of “color-blind” university admissions policies** (Dongfang Gaozhao and Daniel L. Fay). <small>[ <a href="#/" onclick="visib('rose-colored')">Abstract</a> ]</small>
 
 <div id="rose-colored" style="display: none; text-align: justify; line-height: 1.2" ><small>
