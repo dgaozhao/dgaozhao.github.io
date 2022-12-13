@@ -11,14 +11,15 @@ sitemap: true
 {% endif %}
 
 ## Peer-reviewed Articles
-**Bureaucrat or artificial intelligence: People’s preferences and perceptions of government service** (Dongfang Gaozhao, James E. Wright II, and Mylah K. Gainey). <small>[ <a href="#/" onclick="visib('ai-abstract')">Abstract</a> | [Preregistration][ai-prereg] | [Draft][ai-preprint] ]</small>
+**Bureaucrat or artificial intelligence: People’s preferences and perceptions of government service** (Dongfang Gaozhao, James E. Wright II, and Mylah K. Gainey). _Public Management Review_, forthcoming. <small>[ <a href="#/" onclick="visib('ai-abstract')">Abstract</a> | [Preregistration][ai-prereg] | [Preprint][ai-preprint] ]</small>
 
 <div id="ai-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
 The increasing use of artiﬁcial intelligence (AI) in public service delivery presents important yet unanswered questions about citizens’ views of AI. Especially, are citizens’ perceptions of decisions made by AI diﬀerent from those made by bureaucrats? We answer this question by conducting a conjoint experiment. Our results show that individuals prefer minority bureaucrats over AI to make decisions. This is particularly true for racially minoritized citizens. However, when passive representation within the bureaucracy is unavailable, racially minoritized individuals do not have a clear-cut preference between AI and out-group bureaucrats. Our ﬁndings provide insight into the interaction between automation, representation, and equity.
 </small><br><br/></div>
 
-[ai-preprint]: https://www.researchgate.net/publication/353169009_Do_algorithms_know_all_Civilians'_perception_of_employing_artificial_intelligence_in_government_decisions
+[ai-preprint]: https://www.researchgate.net/publication/353169009_Bureaucrat_or_Artificial_Intelligence_People%27s_Preferences_and_Perceptions_of_Government_Service
 [ai-prereg]: https://osf.io/43qe8
+
 
 
 **The power of protest on policing: Black Lives Matter protest and civilians evaluation of the police** (James E. Wright II, Dongfang Gaozhao, Kenneth Dukes, and Da'Shay P. Templeton). _Public Administration Review_, online first. <small>[ <a href="#/" onclick="visib('blm-abstract')">Abstract</a> | [Preregistration & Data][blm-prereg] | [Postprint][blm-postprint] ]</small>
