@@ -11,7 +11,7 @@ sitemap: true
 {% endif %}
 
 ## Peer-reviewed Articles
-**Bureaucrat or artificial intelligence: People’s preferences and perceptions of government service** (Dongfang Gaozhao, James E. Wright II, and Mylah K. Gainey). _Public Management Review_, forthcoming. <small>[ <a href="#/" onclick="visib('ai-abstract')">Abstract</a> | [Preregistration][ai-prereg] | [Preprint][ai-preprint] ]</small>
+**Bureaucrat or artificial intelligence: People’s preferences and perceptions of government service** (Dongfang Gaozhao, James E. Wright II, and Mylah K. Gainey). _Public Management Review_, online first. <small>[ <a href="#/" onclick="visib('ai-abstract')">Abstract</a> | [Preregistration][ai-prereg] | [Preprint][ai-preprint] ]</small>
 
 <div id="ai-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
 The increasing use of artiﬁcial intelligence (AI) in public service delivery presents important yet unanswered questions about citizens’ views of AI. Especially, are citizens’ perceptions of decisions made by AI diﬀerent from those made by bureaucrats? We answer this question by conducting a conjoint experiment. Our results show that individuals prefer minority bureaucrats over AI to make decisions. This is particularly true for racially minoritized citizens. However, when passive representation within the bureaucracy is unavailable, racially minoritized individuals do not have a clear-cut preference between AI and out-group bureaucrats. Our ﬁndings provide insight into the interaction between automation, representation, and equity.
