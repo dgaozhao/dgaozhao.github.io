@@ -11,6 +11,16 @@ sitemap: true
 {% endif %}
 
 ## Peer-reviewed Articles
+
+**Body-worn cameras and representation: What matters when evaluating police use of force?** (James E. Wright II, Dongfang Gaozhao, and Brittany D. Houston). _Public Administration Review_, accepted. <small>[ <a href="#/" onclick="visib('bwc-abstract')">Abstract</a> | [Preregistration][bwc-prereg] ]</small>
+
+<div id="bwc-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Public administration scholarship seeks to understand ways to increase accountability within the policing profession. We employ an online conjoint experiment to disentangle the effects of both representation and BWC on police accountability and legitimacy. In the experiment, we ask participants to rate the likelihood that a police use of force incident prompts an investigation when there is a BWC present and racial and gender representation matches between the officer and the civilian in the use of force incident. We find that Caucasian officers who use force are more likely to be investigated. Our findings also reveal that civilians believe male officers who use force should be investigated and there is no need for further investigation when a BWC is utilized during a use of force situation. The implications of this study show that civilians view BWCs as the most important tool is providing accurate and honest assessment of police-civilian encounters.
+</small><br><br/></div>
+
+[bwc-prereg]: https://osf.io/rmdju
+
+
 **Bureaucrat or artificial intelligence: People’s preferences and perceptions of government service** (Dongfang Gaozhao, James E. Wright II, and Mylah K. Gainey). _Public Management Review_, online first. <small>[ <a href="#/" onclick="visib('ai-abstract')">Abstract</a> | [Preregistration][ai-prereg] | [Preprint][ai-preprint] | [Postprint][ai-postprint] ]</small>
 
 <div id="ai-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
