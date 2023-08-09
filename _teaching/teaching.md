@@ -7,17 +7,17 @@ author_profile: true
 
 ## University of Dayton
 
-**Governance and Ethics of Artificial Intelligence**<br/>
-Undergraduate course | Spring 2023, Summer 2023, Fall 2023
+**Organization Theory**<br/>
+Graduate course | Fall 2022, Fall 2023
 
 **Ethics in Public Administration**<br/>
 Graduate course | Spring 2023
 
+**Governance and Ethics of Artificial Intelligence**<br/>
+Undergraduate course | Spring 2023, Summer 2023, Fall 2023
+
 **Public Policy Analysis**<br/>
 Undergraduate course | Fall 2022
-
-**Organization Theory**<br/>
-Graduate course | Fall 2022, Fall 2023
 
 
 ## Florida State University
