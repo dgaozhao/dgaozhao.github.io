@@ -12,7 +12,7 @@ sitemap: true
 
 ## Peer-reviewed Articles
 
-**Body-worn cameras and representation: What matters when evaluating police use of force?** (with James E. Wright II and Brittany D. Houston). 
+**Body-worn cameras and representation: What matters when evaluating police use of force?** <br/> 
 _Public Administration Review_, accepted. <small>[ <a href="#/" onclick="visib('bwc-abstract')">Abstract</a> | [Preregistration][bwc-prereg] ]</small>
 
 <div id="bwc-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -22,7 +22,7 @@ Public administration scholarship seeks to understand ways to increase accountab
 [bwc-prereg]: https://osf.io/rmdju
 
 
-**Bureaucrat or artificial intelligence: People’s preferences and perceptions of government service** (with James E. Wright II and Mylah K. Gainey). 
+**Bureaucrat or artificial intelligence: People’s preferences and perceptions of government service** <br/>
 _Public Management Review_, online first. <small>[ <a href="#/" onclick="visib('ai-abstract')">Abstract</a> | [Preregistration][ai-prereg] | [Preprint][ai-preprint] | [Postprint][ai-postprint] ]</small>
 
 <div id="ai-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -35,7 +35,7 @@ The increasing use of artiﬁcial intelligence (AI) in public service delivery p
 
 
 
-**The power of protest on policing: Black Lives Matter protest and civilians evaluation of the police** (with James E. Wright II, Kenneth Dukes, and Da'Shay P. Templeton).
+**The power of protest on policing: Black Lives Matter protest and civilians evaluation of the police** <br/>
 _Public Administration Review_, 2022, _83_(1), 130-143. <small>[ <a href="#/" onclick="visib('blm-abstract')">Abstract</a> | [Preregistration & Data][blm-prereg] | [Postprint][blm-postprint] ]</small>
 
 <div id="blm-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -46,7 +46,7 @@ In 2020, police brutality against Black Americans catalyzed BLM protests across 
 [blm-postprint]: https://doi.org/10.1111/puar.13498
 
 
-**Flagging fake news on social media: An experiment of media consumers’ identification of fake news**. 
+**Flagging fake news on social media: An experiment of media consumers’ identification of fake news** <br/>
 _Government Information Quarterly_, 2021, _38_(3), 101591. <small>[ <a href="#/" onclick="visib('fake-news-abstract')">Abstract</a> | [Preregistration][fake-news-prereg] | [Preprint][fake-news-preprint] | [Postprint][fake-news-postprint] ]</small><br/>
 <small> - Florida State University _de Guzman Best Graduate Paper Award_ for 2020</small><br/>
 <small> - Media Appearance: [Taiwan Communications Commission][taiwan-communications-commission], [Medical News Today][medical-news-today]</small>
@@ -62,7 +62,7 @@ Policymakers are taking action to protect their citizens and democratic systems 
 [medical-news-today]: https://www.medicalnewstoday.com/articles/how-has-social-media-affected-mental-health-during-the-pandemic
 
 
-**Place plus race effects in bureaucratic discretionary power: An analysis of residential segregation and police stop decisions** (with James E. Wright II and Meagan A. Snow).
+**Place plus race effects in bureaucratic discretionary power: An analysis of residential segregation and police stop decisions** <br/>
 _Public Performance & Management Review_, 2021, _44_(2), 352-377. <small>[ <a href="#/" onclick="visib('segregation-abstract')">Abstract</a> | [Postprint][segregation-postprint] ]</small><br/>
 <small> - Media Appearance: [The Washington Post][twp], [Bill of Health][boh], [Florida Politics][flp], [Newswise][newswise], [sciencenewsnet.in][sciencenewsnet.in]</small>
 
@@ -79,12 +79,12 @@ Discrepancies in bureaucrat behavior, residential segregation, and police stops 
 
 
 ## Policy Briefs & Popular Writings
-**COVID-19 in Florida: A breakdown of disparities in the Black population by county for June & July 2020** (with Cameron C. Beatty, James E. Wright II, Erica R. Wiborg, Allen Clay, Jr., and Keandra Davis). 
+**COVID-19 in Florida: A breakdown of disparities in the Black population by county for June & July 2020** <br/>
 Florida State University Libraries, 2020. <small> [ [Report][covid-report1] ]</small>
 
 [covid-report1]: https://purl.lib.fsu.edu/diginole/FSU_libsubv1_scholarship_submission_1597298714_e2d33148
 
-**COVID-19 in Florida: Disparities in the Black population** (with Allen Clay, Jr.).
+**COVID-19 in Florida: Disparities in the Black population** <br/>
 Wicked Problems, Wicked Solutions, 2020. <small>[ [Webpage][covid-report2] ]</small> 
 
 [covid-report2]: https://wicked-solutions.blog/2020/10/19/covid-19-in-florida-disparities-in-the-black-population/
