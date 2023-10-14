@@ -13,7 +13,7 @@ sitemap: true
 ## Peer-reviewed Articles
 
 **Body-worn cameras and representation: What matters when evaluating police use of force?** <br/> 
-_Public Administration Review_, accepted. <small>[ <a href="#/" onclick="visib('bwc-abstract')">Abstract</a> | [Preregistration][bwc-prereg] | [Postprint][bwc-postprint] ]</small>
+_Public Administration Review_, online first. <small>[ <a href="#/" onclick="visib('bwc-abstract')">Abstract</a> | [Preregistration][bwc-prereg] | [Postprint][bwc-postprint] ]</small>
 
 <div id="bwc-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Public administration scholarship seeks to understand ways to increase accountability within the policing profession. We employ an online conjoint experiment to disentangle the effects of both representation and BWC on police accountability and legitimacy. In the experiment, we ask participants to rate the likelihood that a police use of force incident prompts an investigation when there is a BWC present and racial and gender representation matches between the officer and the civilian in the use of force incident. We find that Caucasian officers who use force are more likely to be investigated. Our findings also reveal that civilians believe male officers who use force should be investigated and there is no need for further investigation when a BWC is utilized during a use of force situation. The implications of this study show that civilians view BWCs as the most important tool is providing accurate and honest assessment of police-civilian encounters.
