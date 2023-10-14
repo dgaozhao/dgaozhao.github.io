@@ -13,13 +13,14 @@ sitemap: true
 ## Peer-reviewed Articles
 
 **Body-worn cameras and representation: What matters when evaluating police use of force?** <br/> 
-_Public Administration Review_, accepted. <small>[ <a href="#/" onclick="visib('bwc-abstract')">Abstract</a> | [Preregistration][bwc-prereg] ]</small>
+_Public Administration Review_, accepted. <small>[ <a href="#/" onclick="visib('bwc-abstract')">Abstract</a> | [Preregistration][bwc-prereg] | [Postprint][bwc-postprint] ]</small>
 
 <div id="bwc-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Public administration scholarship seeks to understand ways to increase accountability within the policing profession. We employ an online conjoint experiment to disentangle the effects of both representation and BWC on police accountability and legitimacy. In the experiment, we ask participants to rate the likelihood that a police use of force incident prompts an investigation when there is a BWC present and racial and gender representation matches between the officer and the civilian in the use of force incident. We find that Caucasian officers who use force are more likely to be investigated. Our findings also reveal that civilians believe male officers who use force should be investigated and there is no need for further investigation when a BWC is utilized during a use of force situation. The implications of this study show that civilians view BWCs as the most important tool is providing accurate and honest assessment of police-civilian encounters.
 </small><br><br/></div>
 
 [bwc-prereg]: https://osf.io/rmdju
+[bwc-postprint]: https://doi.org/10.1111/puar.13746
 
 
 **Bureaucrat or artificial intelligence: People’s preferences and perceptions of government service** <br/>
@@ -49,7 +50,7 @@ In 2020, police brutality against Black Americans catalyzed BLM protests across 
 **Flagging fake news on social media: An experiment of media consumers’ identification of fake news** <br/>
 _Government Information Quarterly_, 2021, _38_(3), 101591. <small>[ <a href="#/" onclick="visib('fake-news-abstract')">Abstract</a> | [Preregistration][fake-news-prereg] | [Preprint][fake-news-preprint] | [Postprint][fake-news-postprint] ]</small><br/>
 <small> - Florida State University _de Guzman Best Graduate Paper Award_ for 2020</small><br/>
-<small> - Media Appearance: [Taiwan Communications Commission][taiwan-communications-commission], [Medical News Today][medical-news-today]</small>
+<small> - Media Appearance: [Taiwan Communications Commission][taiwan-communications-commission], [Austrian Federal Ministry of Defence][austrian-federal-ministry-of-defence], [Medical News Today][medical-news-today]</small>
 
 <div id="fake-news-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Policymakers are taking action to protect their citizens and democratic systems from online misinformation. However, media consumers usually have a hard time differentiating misinformation from authentic information. There are two explanations for this difficulty, namely lazy reasoning and motivated reasoning. While lazy reasoning suggests that people may feel reluctant to conduct critical reasoning when consuming online information, the motivated reasoning theory points out that individuals are also thinking in alignment with their identities and established viewpoints. A proposed approach to address this issue is adding fact-checking flags in the hope that flags could alert people to information falsehoods and stimulate critical thinking. This study examines the impact of fact-checking flags on media consumers' identification of fake news. Conducting an experiment (n = 717) on Amazon Mechanical Turk, the study finds that experimental participants with different political backgrounds depend heavily on flag-checking results provided by flags. Flags are powerful to influence people's judgments in a way that participants have blind beliefs in flags even if the flag assessments are inaccurate. Furthermore, the study's results indicate that flag assessments made by professional fact-checkers or crowdsourcing are equally influential in shaping participants' identification. These observations provide public and private leaders with suggestions that fact-checking flags can significantly affect media consumers' identification of fake news. However, flags appear to have little ability to promote critical thinking in this experiment.
@@ -59,6 +60,7 @@ Policymakers are taking action to protect their citizens and democratic systems 
 [fake-news-preprint]: https://www.researchgate.net/publication/345413560_Flagging_fake_news_on_social_media_An_experiment_of_media_consumers'_identification_of_fake_news
 [fake-news-postprint]: https://doi.org/10.1016/j.giq.2021.101591
 [taiwan-communications-commission]: https://www.ncc.gov.tw/chinese/files/21042/5190_45998_210429_1.pdf
+[austrian-federal-ministry-of-defence]: https://futureoperations.at/fileadmin/user_upload/k_future_operations/Polarisierung_in_O__sterreich_Hompepage_FUOP.pdf
 [medical-news-today]: https://www.medicalnewstoday.com/articles/how-has-social-media-affected-mental-health-during-the-pandemic
 
 
