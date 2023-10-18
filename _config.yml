@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dongfang Gaozhao"
 title_separator          : "-"
 name                     : &name "Dongfang Gaozhao"
-description              : &description "Ph.D. candidate at Florida State University"
+description              : &description "Assistant Professor at the University of Dayton"
 url                      : "https://dgaozhao.github.io"
 baseurl                  : ""
 repository               : "dgaozhao.github.io"
@@ -110,6 +110,7 @@ author:
   steam            :
   tumblr           :
   twitter          : "dgaozhao"
+  x                : "dgaozhao"
   vine             :
   weibo            :
   xing             :
