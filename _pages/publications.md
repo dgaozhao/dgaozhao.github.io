@@ -20,19 +20,9 @@ In a series of online experiments, we asked subjects to evaluate news veracity a
 </small><br><br/></div>
 
 
-**Body-worn cameras and representation: What matters when evaluating police use of force?** <br/> 
-_Public Administration Review_, online first. <small>[ <a href="#/" onclick="visib('bwc-abstract')">Abstract</a> | [Preregistration][bwc-prereg] | [Postprint][bwc-postprint] ]</small>
-
-<div id="bwc-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Public administration scholarship seeks to understand ways to increase accountability within the policing profession. We employ an online conjoint experiment to disentangle the effects of both representation and BWC on police accountability and legitimacy. In the experiment, we ask participants to rate the likelihood that a police use of force incident prompts an investigation when there is a BWC present and racial and gender representation matches between the officer and the civilian in the use of force incident. We find that Caucasian officers who use force are more likely to be investigated. Our findings also reveal that civilians believe male officers who use force should be investigated and there is no need for further investigation when a BWC is utilized during a use of force situation. The implications of this study show that civilians view BWCs as the most important tool is providing accurate and honest assessment of police-civilian encounters.
-</small><br><br/></div>
-
-[bwc-prereg]: https://osf.io/rmdju
-[bwc-postprint]: https://doi.org/10.1111/puar.13746
-
 
 **Bureaucrat or artificial intelligence: People’s preferences and perceptions of government service** <br/>
-_Public Management Review_, online first. <small>[ <a href="#/" onclick="visib('ai-abstract')">Abstract</a> | [Preregistration][ai-prereg] | [Preprint][ai-preprint] | [Postprint][ai-postprint] ]</small>
+_Public Management Review_, 2024, _26_(6), 1498–1525. <small>[ <a href="#/" onclick="visib('ai-abstract')">Abstract</a> | [Preregistration][ai-prereg] | [Preprint][ai-preprint] | [Postprint][ai-postprint] ]</small>
 
 <div id="ai-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
 The increasing use of artiﬁcial intelligence (AI) in public service delivery presents important yet unanswered questions about citizens’ views of AI. Especially, are citizens’ perceptions of decisions made by AI diﬀerent from those made by bureaucrats? We answer this question by conducting a conjoint experiment. Our results show that individuals prefer minority bureaucrats over AI to make decisions. This is particularly true for racially minoritized citizens. However, when passive representation within the bureaucracy is unavailable, racially minoritized individuals do not have a clear-cut preference between AI and out-group bureaucrats. Our ﬁndings provide insight into the interaction between automation, representation, and equity.
@@ -41,6 +31,18 @@ The increasing use of artiﬁcial intelligence (AI) in public service delivery p
 [ai-preprint]: https://www.researchgate.net/publication/353169009_Bureaucrat_or_Artificial_Intelligence_People%27s_Preferences_and_Perceptions_of_Government_Service
 [ai-prereg]: https://osf.io/43qe8
 [ai-postprint]: https://doi.org/10.1080/14719037.2022.2160488
+
+
+
+**Body-worn cameras and representation: What matters when evaluating police use of force?** <br/> 
+_Public Administration Review_, 2023, _84_(6), 1117-1133. <small>[ <a href="#/" onclick="visib('bwc-abstract')">Abstract</a> | [Preregistration][bwc-prereg] | [Postprint][bwc-postprint] ]</small>
+
+<div id="bwc-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Public administration scholarship seeks to understand ways to increase accountability within the policing profession. We employ an online conjoint experiment to disentangle the effects of both representation and BWC on police accountability and legitimacy. In the experiment, we ask participants to rate the likelihood that a police use of force incident prompts an investigation when there is a BWC present and racial and gender representation matches between the officer and the civilian in the use of force incident. We find that Caucasian officers who use force are more likely to be investigated. Our findings also reveal that civilians believe male officers who use force should be investigated and there is no need for further investigation when a BWC is utilized during a use of force situation. The implications of this study show that civilians view BWCs as the most important tool is providing accurate and honest assessment of police-civilian encounters.
+</small><br><br/></div>
+
+[bwc-prereg]: https://osf.io/rmdju
+[bwc-postprint]: https://doi.org/10.1111/puar.13746
 
 
 
