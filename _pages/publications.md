@@ -34,6 +34,17 @@ The increasing use of artiﬁcial intelligence (AI) in public service delivery p
 
 
 
+**Get bureaucrats on board: Unmasking bureaucrats' attitudes toward the government's adoption of AI** <br/>
+_ACM dg.o_, 2024, June 11-14. <small>[ <a href="#/" onclick="visib('dgo-abstract')">Abstract</a> | [Postprint][dgo-postprint] ]</small>
+
+<div id="dgo-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
+With the advancement of artificial intelligence  (AI), governments around the world have been exploring possibilities to adopt AI technologies in their operations to improve efficiency and citizen satisfaction. Few studies examine bureaucrats' preferences of using or working with AI in making decisions and delivering public services. Are they supportive of government use of AI? We answer this question by analyzing public officials' opinion data from Taiwan Government Bureaucrats Survey. Our results show that bureaucrats with higher levels of innovativeness favor the idea of adopting AI in their organizations whereas bureaucrats with higher levels of career commitment oppose such adoption.
+</small><br><br/></div>
+
+[dgo-postprint]: https://doi.org/10.1145/3657054.3657055
+
+
+
 **Body-worn cameras and representation: What matters when evaluating police use of force?** <br/> 
 _Public Administration Review_, 2023, _84_(6), 1117-1133. <small>[ <a href="#/" onclick="visib('bwc-abstract')">Abstract</a> | [Preregistration][bwc-prereg] | [Postprint][bwc-postprint] ]</small>
 
@@ -91,10 +102,20 @@ Discrepancies in bureaucrat behavior, residential segregation, and police stops 
 
 
 ## Policy Briefs & Popular Writings
+
+**Students as faculty gender equity allies: Mitigating students' gender biases through short-term awareness intervention and long-term research literacy training** <br/>
+University of Dayton Provost's Office, 2024. <small> [ [Report][gerf-report] ]</small>
+
+[gerf-report]: https://ecommons.udayton.edu/wgs_equity/9/
+
+
+
 **COVID-19 in Florida: A breakdown of disparities in the Black population by county for June & July 2020** <br/>
 Florida State University Libraries, 2020. <small> [ [Report][covid-report1] ]</small>
 
 [covid-report1]: https://purl.lib.fsu.edu/diginole/FSU_libsubv1_scholarship_submission_1597298714_e2d33148
+
+
 
 **COVID-19 in Florida: Disparities in the Black population** <br/>
 Wicked Problems, Wicked Solutions, 2020. <small>[ [Webpage][covid-report2] ]</small> 
