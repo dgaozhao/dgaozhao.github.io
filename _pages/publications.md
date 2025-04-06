@@ -10,7 +10,7 @@ sitemap: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## Peer-reviewed Articles
+## Peer-reviewed Publications
 
 **The motivation and consequence of fact-checking behavior: An experimental study** <br/> 
 _PLoS ONE_, accepted. <small>[ <a href="#/" onclick="visib('plos-abstract')">Abstract</a> ]</small>
