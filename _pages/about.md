@@ -12,4 +12,4 @@ I am an assistant professor of public administration, public policy, criminal ju
 
 My primary research interests are in citizen-government interaction shaped by information, technology, and institutions. My research has been published or is forthcoming in _Government Information Quarterly_, _Public Administration Review_, _Public Management Review_, and _PLoS ONE_, among others.
 
-I received a Ph.D. in Public Administration from [Florida State University](https://coss.fsu.edu/askew/), an M.P.A. from [Rutgers University](https://spaa.newark.rutgers.edu/), and a B.A. in Journalism from [East China University of Political Science and Law](https://www.ecupl.edu.cn/).
+I earned a Ph.D. in Public Administration from [Florida State University](https://coss.fsu.edu/askew/), an M.P.A. from [Rutgers University](https://spaa.newark.rutgers.edu/), and a B.A. in Journalism from [East China University of Political Science and Law](https://www.ecupl.edu.cn/).
