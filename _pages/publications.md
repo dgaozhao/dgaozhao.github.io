@@ -13,7 +13,7 @@ sitemap: true
 ## Peer-reviewed Publications
 
 **The motivation and consequence of fact-checking behavior: An experimental study** <br/> 
-_PLoS ONE_, 2025, _20_(4), e0323105. <small>[ <a href="#/" onclick="visib('plos-abstract')">Abstract</a> | [Open-access][plos-postprint] | [Harvard Dataverse][plos-dataverse] ]</small>
+_PLoS ONE_, 2025, _20_(4), e0323105. <small>[ <a href="#/" onclick="visib('plos-abstract')">Abstract</a> | [Open Access][plos-postprint] | [Harvard Dataverse][plos-dataverse] ]</small>
 
 <div id="plos-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
 In a series of online experiments, we asked subjects to evaluate news veracity and varied two experimental conditions: (1) the opportunity to receive fact-checking results and (2) bonus payment for accuracy. We tested three competing theories for fact-checking behavior: value of information (VoI), limited attention (LA), and motivated reasoning (MR). We find that monetary incentives do not promote fact-checking. Prior awareness of the news and perceived easiness in determining news authenticity significantly reduce fact-checking. Democrats are more likely to fact-check on the news aligning with Republicans' ideology, suggesting a tendency to seek information when there is a need to defend one's pre-existing belief. Overall, our results contradict VoI, show mixed evidence for MR, and support LA. When available, fact-checking consistently improves subjects' accuracy in evaluating news veracity by over 40%, underscoring the importance of promoting fact-checking in curbing misinformation.
