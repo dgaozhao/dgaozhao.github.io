@@ -12,6 +12,35 @@ sitemap: true
 
 ## Peer-reviewed Publications
 
+**The effects of biases mitigation prompts and gender education on student evaluation of teaching** <br/> 
+_PS: Political Science & Politics_, 2026. <small>[ <a href="#/" onclick="visib('ps2-abstract')">Abstract</a> ]</small>
+
+<div id="ps2-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Despite growing attention to gender biases in student evaluations of teaching (SET) in political science, research on effective mitigation strategies remains limited. Given the reliance on SET as a dominant measure of teaching quality in higher education, this study investigates the impact of short-term bias mitigation prompts and prolonged exposure to gender-focused topics on students’ evaluations of instructors. Using a survey experiment conducted in general education social science courses at a mid-sized Midwest Catholic university, we found that bias mitigation prompts encouraged greater self-reflection, prompting students to critically evaluate their instructors and their own performance. This intervention appeared to reduce the advantages previously afforded to men instructors. However, exposure to gender topics revealed a complex dynamic. While gender-related courses are associated with higher SET ratings overall, this positive effect is significantly weakened for women instructors, such that women teaching gender-related courses receive lower evaluations than would be expected based on the separate effects of course topic and instructor gender. Our findings underscore the complex interplay between faculty gender, gender education, and persistent stereotypes.
+</small><br><br/></div>
+
+
+
+**Why coproduce? Citizens' perspectives on the costs and benefits of technology-enabled coproduction** <br/> 
+_Government Information Quarterly_, 2026. <small>[ <a href="#/" onclick="visib('coproduction-abstract')">Abstract</a> ]</small>
+
+<div id="coproduction-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This study examines how citizens weigh cost-benefit tradeoffs when reporting public service failures and engaging in technology-enabled coproduction, shedding light on an understudied area of perceived costs of coproduction and their interaction with benefits. The landscape of citizen coproduction has grown increasingly complex, as multiple digital communication platforms have become available for service reporting, and as more nongovernmental actors provide public services. We investigate whether citizens’ willingness to coproduce varies by the sector affiliation of public service providers and digital platforms, and whether these sectors moderate the effects of perceived costs and benefits. Using a conjoint survey experiment, we find that citizens are more likely to report severe service failures and when expected benefits in efficacy are high. Conversely, their willingness decreases when perceived costs of privacy concerns or effort are significant. Citizens are more inclined to coproduce when digital platforms and public service providers come from different sectors. The findings call attention to the complex institutional arrangements of coproduction and the critical linkages between public service providers and digital platforms, highlighting their distinct yet complementary roles in fostering citizen coproduction.
+</small><br><br/></div>
+
+
+
+**Before the first lecture: The effects of instructor identity on course enrollment** <br/> 
+_PS: Political Science & Politics_, 2026. <small>[ <a href="#/" onclick="visib('ps1-abstract')">Abstract</a> | [Harvard Dataverse][ps1-dataverse] ]</small>
+
+<div id="ps1-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
+How do professors’ identities, including gender and perceived race and ethnicity, affect student course enrollment preferences? Political science scholars have clearly illustrated the role identity bias plays in the political arena, but what about students we teach? Previous research has detailed how gender, race and ethnicity can impact professors' career development and teaching evaluations. However, there is little in terms of the impact of bias on students’ class selection. This study utilized a choice-based conjoint experiment of first year university students and found that an instructor’s gender and perceived race and ethnicity have an impact on the courses students select. These results have significant implications for universities evaluation for faculty career success.
+</small><br><br/></div>
+
+[ps1-dataverse]: https://doi.org/10.7910/DVN/DSOBOP
+
+
+
 **The motivation and consequence of fact-checking behavior: An experimental study** <br/> 
 _PLoS ONE_, 2025, _20_(4), e0323105. <small>[ <a href="#/" onclick="visib('plos-abstract')">Abstract</a> | [Open Access][plos-postprint] | [Harvard Dataverse][plos-dataverse] ]</small>
 
