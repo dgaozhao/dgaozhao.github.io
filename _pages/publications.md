@@ -22,11 +22,14 @@ Despite growing attention to gender biases in student evaluations of teaching (S
 
 
 **Why coproduce? Citizens' perspectives on the costs and benefits of technology-enabled coproduction** <br/> 
-_Government Information Quarterly_, 2026. <small>[ <a href="#/" onclick="visib('coproduction-abstract')">Abstract</a> ]</small>
+_Government Information Quarterly_, 2026, _43_(1), 102116. <small>[ <a href="#/" onclick="visib('coproduction-abstract')">Abstract</a> | [Preregistration][coproduction-prereg] | [Postprint][coproduction-postprint] ]</small><br/>
 
 <div id="coproduction-abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
 This study examines how citizens weigh cost-benefit tradeoffs when reporting public service failures and engaging in technology-enabled coproduction, shedding light on an understudied area of perceived costs of coproduction and their interaction with benefits. The landscape of citizen coproduction has grown increasingly complex, as multiple digital communication platforms have become available for service reporting, and as more nongovernmental actors provide public services. We investigate whether citizens’ willingness to coproduce varies by the sector affiliation of public service providers and digital platforms, and whether these sectors moderate the effects of perceived costs and benefits. Using a conjoint survey experiment, we find that citizens are more likely to report severe service failures and when expected benefits in efficacy are high. Conversely, their willingness decreases when perceived costs of privacy concerns or effort are significant. Citizens are more inclined to coproduce when digital platforms and public service providers come from different sectors. The findings call attention to the complex institutional arrangements of coproduction and the critical linkages between public service providers and digital platforms, highlighting their distinct yet complementary roles in fostering citizen coproduction.
 </small><br><br/></div>
+
+[coproduction-prereg]: https://osf.io/jmnxa/overview?view_only=be6f067c2132455392985d6207539f4f
+[coproduction-postprint]: https://doi.org/10.1016/j.giq.2026.102116
 
 
 
