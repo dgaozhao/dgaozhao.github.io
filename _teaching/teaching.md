@@ -8,22 +8,25 @@ author_profile: true
 ## University of Dayton
 
 **Organization Theory**<br/>
-Graduate course | Fall 2022, Fall 2023
+Graduate course
 
 **Ethics in Public Administration**<br/>
-Graduate course | Spring 2023
+Graduate course
 
 **Governance and Ethics of Artificial Intelligence**<br/>
-Undergraduate course | Spring 2023, Summer 2023, Fall 2023
+Undergraduate course
+
+**Political Science Research Methods**<br/>
+Undergraduate course
 
 **Public Policy Analysis**<br/>
-Undergraduate course | Fall 2022
+Undergraduate course
 
 
 ## Florida State University
 
 **Public Administration in American Society**<br/>
-Undergraduate course | Fall 2020, Spring 2021, Fall 2021, & Spring 2022 <small>[ [Syllabus][PAD3003-Syllabus] ]</small> 
+Undergraduate course | Fall 2020, Spring 2021, Fall 2021, Spring 2022 <small>[ [Syllabus][PAD3003-Syllabus] ]</small> 
 
 [PAD3003-Syllabus]: https://dgaozhao.github.io/files/PAD3003%20Syllabus.pdf
 
